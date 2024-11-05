@@ -24,7 +24,7 @@ Browse available flowers.
 Select flowers to purchase.
 Place orders for delivery with cash on delivery payment.
 Contributing
-Contributions to Bloom Room are welcome! Please follow our contribution guidelines for details on how to contribute.
+Contributions to Flower_House are welcome! 
 
 
 
