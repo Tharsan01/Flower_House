@@ -1,6 +1,6 @@
-Bloom Room
+Flower House
 Description
-Bloom Room is a flower shop application developed for Android devices. Users can browse a variety of flowers and place orders for delivery, with payment handled through cash on delivery. The application provides an interface for both administrators and users, allowing administrators to manage flower inventory and categories, while users can browse and purchase flowers.
+Flower House is a flower shop application developed for Android devices. Users can browse a variety of flowers and place orders for delivery, with payment handled through cash on delivery. The application provides an interface for both administrators and users, allowing administrators to manage flower inventory and categories, while users can browse and purchase flowers.
 
 Features
 User Interface: Intuitive and user-friendly interface for easy browsing and purchasing of flowers.
