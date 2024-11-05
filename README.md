@@ -26,8 +26,5 @@ Place orders for delivery with cash on delivery payment.
 Contributing
 Contributions to Bloom Room are welcome! Please follow our contribution guidelines for details on how to contribute.
 
-License
-This project is licensed under the MIT License.
 
-Contact
-For support or inquiries, please contact Powsikan at powsi.info@gmail.com.
+
